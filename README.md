@@ -1,5 +1,5 @@
 # Inter University Capture The Flag Competition |  BUET CSE Fest 2023
-## Final Round Released & Unreleased Challenges
+## Final Round Challenges
 
 ## Problem Setters
 - [Shehabul Islam Sawraz](https://github.com/Shehabul-Islam-Sawraz)
